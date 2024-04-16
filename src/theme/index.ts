@@ -28,10 +28,6 @@ export const THEME = extendTheme({
       500: '#F75A68'
     }
   },
-  fonts: {
-    heading: 'Montserrat_600SemiBold',
-    body: 'Montserrat_400Regular',
-  },
   fontSizes: {
     xs: 12,
     sm: 14,
